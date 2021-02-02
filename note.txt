@@ -1,2 +1,4 @@
 1.conditions a 0 bad a jekono songkha thakle true dekhabe r 0 thakle false.
 2.jekono jinis er value define na kora thakle take false dhore nibe js.
+3.** js a true er value 1 & false er value 0.
+4.**js a compare korar somoy === threeple equal use korba.
